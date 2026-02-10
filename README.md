@@ -1,5 +1,5 @@
 # Web portal Berita
-portaln berita menggunakan PHP $ MYSQL.
+portal berita menggunakan PHP $ MYSQL.
 
 ## FITUR
 -Login admin
@@ -7,9 +7,11 @@ portaln berita menggunakan PHP $ MYSQL.
 -memantau pengguna
 
 #DATABSE
-file databsenya ada di folder config/databse.php
+file databasenya ada di folder config/databse.php
 
 # CARA MENJALANKAN 
 1.import databse ke phpMyadmin
+
 2.Pindahkan folder ke htdocs
+
 3.jalankan via localhost
