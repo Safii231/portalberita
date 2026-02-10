@@ -3,10 +3,12 @@ portal berita menggunakan PHP $ MYSQL.
 
 ## FITUR
 -Login admin
+
 -menambahkan berita 
+
 -memantau pengguna
 
-#DATABSE
+# DATABSE
 file databasenya ada di folder config/databse.php
 
 # CARA MENJALANKAN 
