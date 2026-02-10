@@ -8,7 +8,7 @@ portal berita menggunakan PHP $ MYSQL.
 
 -memantau pengguna
 
-# DATABSE
+# DATABASE
 file databasenya ada di folder config/databse.php
 
 # CARA MENJALANKAN 
